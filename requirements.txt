@@ -1,0 +1,8 @@
+langchain 
+langchain-openai 
+langchain-mistralai 
+PyMuPDF  # library for extracting data from pdf 
+langdetect  # a language detection library
+python-dotenv
+chromadb
+langchain_community
