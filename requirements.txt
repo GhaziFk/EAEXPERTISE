@@ -6,3 +6,8 @@ langdetect  # a language detection library
 python-dotenv
 chromadb
 langchain_community
+langgraph
+chainlit  # for the user interface 
+SpeechRecognition 
+PyAudio
+redis
